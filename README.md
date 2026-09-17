@@ -1,7 +1,9 @@
 # 🏠 Real Estate Insights Dashboard – Tableau
 ## 📊 Project Overview
+
 The Real Estate Insights Dashboard is an interactive Tableau data analytics project designed to analyze real estate sales performance across towns, property types, and time periods.
 The dashboard transforms property transaction data into interactive visual insights that can support regional performance analysis, property segmentation, and data-driven decision-making.
+
 ---
 ## 🎯 Business Objective
 The objective of this project is to:
@@ -91,15 +93,19 @@ Aspiring Data Analyst | Tableau | SQL | Python | Data Visualization
 📍 Location: [Kolkata]
 
 🔗 LinkedIn: [[LinkedIn Profile Link](https://www.linkedin.com/in/gourav-mallick-6824b4422/)]
+
 ---
+
 ## 🔗 Project Links
 
 📈 **Tableau Public:** [[Tableau Public Link](https://public.tableau.com/app/profile/gourav.mallick/viz/Data_Analytics_GenAI_Tableau_Mini_Project/Dashboard1?publish=yes)]
 
-💼 **LinkedIn Project Post:** [Paste LinkedIn Post Link]
+💼 **LinkedIn Project Post:** [[LinkedIn Post Link](https://www.linkedin.com/posts/gourav-mallick-6824b4422_dataanalyst-dataanalytics-tableau-ugcPost-7506081479639367681-ermu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGs3acIBvlQ9uxaPu2ZS5gYB1fKGDe2seNw)]
 ---
 ## 📬 Connect With Me
+
 I’m currently building my portfolio in **Data Analytics, Business Intelligence, SQL, Python, and Tableau**.
 If you’re interested in data analytics, visualization, or business intelligence, feel free to connect with me on LinkedIn.
+
 ---
 ⭐ If you found this project useful, feel free to star the repository!
