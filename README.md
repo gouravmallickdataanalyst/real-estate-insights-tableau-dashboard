@@ -65,9 +65,6 @@ The dashboard can help real estate stakeholders:
 - Support regional marketing and property strategy
 - Make data-driven business decisions
 ---
-## 📊 Dashboard Preview
-![Real Estate Insights Dashboard](Dashboard/Real_Estate_Insights_Dashboard.png)
----
 ## 📂 Project Structure
 ```text
 real-estate-insights-tableau-dashboard/
@@ -80,24 +77,22 @@ real-estate-insights-tableau-dashboard/
 │   └── Real_Estate_Insights_Dashboard.png
 │
 ├── Documentation/
-│   └── Project_Summary.pdf
-│
-└── Data/
-    └── README.md
+   └── Project_Summary.pdf
+```
 ---
 ## 👤 Author
 
 Gourav Mallick
 
+Aspiring Data Analyst | Tableau | SQL | Python | Data Visualization
+
 📍 Location: [Kolkata]
 
-🔗 LinkedIn: (https://www.linkedin.com/in/gourav-mallick-6824b4422/)
-
+🔗 LinkedIn: [[LinkedIn Profile Link](https://www.linkedin.com/in/gourav-mallick-6824b4422/)]
 ---
-
 ## 🔗 Project Links
 
-📈 **Tableau Public:** [[Paste Tableau Public Link](https://public.tableau.com/app/profile/gourav.mallick/viz/Data_Analytics_GenAI_Tableau_Mini_Project/Dashboard1?publish=yes)]
+📈 **Tableau Public:** [[Tableau Public Link](https://public.tableau.com/app/profile/gourav.mallick/viz/Data_Analytics_GenAI_Tableau_Mini_Project/Dashboard1?publish=yes)]
 
 💼 **LinkedIn Project Post:** [Paste LinkedIn Post Link]
 ---
