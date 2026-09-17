@@ -35,7 +35,9 @@ The pie chart provides a view of the composition of recorded properties across d
 The heat map compares towns against residential/property types to identify differences in sales ratios.
 ### 6. Property Segment Analysis
 The treemap provides a compact comparison of property categories and their contribution to the dataset.
+
 ---
+
 ## 🎛️ Interactive Filters & Controls
 The dashboard includes:
 - Property Type
