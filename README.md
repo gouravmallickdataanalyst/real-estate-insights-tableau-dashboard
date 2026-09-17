@@ -86,7 +86,7 @@ real-estate-insights-tableau-dashboard/
 ---
 ## 👤 Author
 
-Gourav Mallick
+**Gourav Mallick**
 
 Aspiring Data Analyst | Tableau | SQL | Python | Data Visualization
 
